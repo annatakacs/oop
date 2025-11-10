@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zakos\\Desktop\\cpp\\fcc_oop_course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD873D4-7BDB-4696-A169-EC28AAB31109}|fcc_oop_course\\fcc_oop_course.vcxproj|C:\\Users\\Zakos\\Desktop\\cpp\\fcc_oop_course\\fcc_oop_course\\fcc_oop_course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FD873D4-7BDB-4696-A169-EC28AAB31109}|fcc_oop_course\\fcc_oop_course.vcxproj|solutionrelative:fcc_oop_course\\fcc_oop_course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fcc_oop_course.cpp",
+              "DocumentMoniker": "C:\\Users\\Zakos\\Desktop\\cpp\\fcc_oop_course\\fcc_oop_course\\fcc_oop_course.cpp",
+              "RelativeDocumentMoniker": "fcc_oop_course\\fcc_oop_course.cpp",
+              "ToolTip": "C:\\Users\\Zakos\\Desktop\\cpp\\fcc_oop_course\\fcc_oop_course\\fcc_oop_course.cpp",
+              "RelativeToolTip": "fcc_oop_course\\fcc_oop_course.cpp",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-30T19:56:41.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
